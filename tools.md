@@ -1,22 +1,7 @@
-## Membership
-IEng / CEng or working towards chartership with the IET
+Membership|Subscription|Softwares Design|Softwares Project Management
+|---|----|----|----|
+IEng \/ CEng or working towards chartership with the IET |CIGRE and IEEE|CDEGS, Furse, CYMCAP|Microsoft planner<br>Smartsheet<br>The Better Business Bureau<br>Procore<br>Buildertrend<br>RedTeam<br>Autodesk<br>CoConstruct<br>Sage<br>SmartUse<br>Project Management Institute<br>Construction Management Association of America
 
-## Softwares Design
-CDEGS, Furse, CYMCAP
 
-### Softwares Project Management
-Microsoft planner
-Smartsheet
-The Better Business Bureau
-Procore
-Buildertrend
-RedTeam
-Autodesk
-CoConstruct
-Sage
-SmartUse
-Project Management Institute
-Construction Management Association of America
 
-### Subscription
-CIGRE and IEEE
+
